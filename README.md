@@ -19,5 +19,5 @@ An application that can be used to write, save, and delete notes. This applicati
 * [ ] Application should allow users to delete previously saved notes.
 
 ## Submission on BCS
-* [ ] The URL of the deployed application
-* [ ] The URL of the GitHub repository
+* [x] The URL of the deployed application
+* [x] The URL of the GitHub repository
